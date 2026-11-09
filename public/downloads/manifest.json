@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-11-01T03:48:00Z",
+  "version": "4.0.0-SUPREME",
+  "files": {
+    "exe": {
+      "filename": "ReativadorConquistasBedrock.exe",
+      "url": "/downloads/ReativadorConquistasBedrock.exe",
+      "sizeBytes": 94208,
+      "sha256": "c6ebc3a1c3b932bc61d164b4107d41bc3a6acf495a0cbf3bf36ff661ebdaaa77"
+    },
+    "bat": {
+      "filename": "Criar_ReativadorConquistas_EXE.bat",
+      "url": "/downloads/Criar_ReativadorConquistas_EXE.bat",
+      "sizeBytes": 96420,
+      "sha256": "0764398cd2d2393af151aaeed4cd38336cac4e1665f0bc1cd05ffefa791f8392"
+    },
+    "zip": {
+      "filename": "ReativadorConquistas_Windows_EXE.zip",
+      "url": "/downloads/ReativadorConquistas_Windows_EXE.zip",
+      "sizeBytes": 64573,
+      "sha256": "aea7296bd47bd1e867afa2f0638b464f4606f96d142384f454316330a989f3bb"
+    },
+    "ico": {
+      "filename": "reativador.ico",
+      "url": "/downloads/reativador.ico",
+      "sizeBytes": 32038,
+      "sha256": "879b2fe80ca8a430f3e6430fff80c1f32b7e7df4ba592956aa791b381c5ed5f4"
+    },
+    "cs": {
+      "filename": "ReativadorConquistasBedrock.cs",
+      "url": "/downloads/ReativadorConquistasBedrock.cs",
+      "sizeBytes": 92446,
+      "sha256": "0f48ffba6257f8efa92970ee515b150dc52a5a011c96733f91e3047f3a5e99bd"
+    }
+  }
+}

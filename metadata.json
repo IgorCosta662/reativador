@@ -1,0 +1,6 @@
+{
+  "name": "Reativador de Conquistas — Minecraft Bedrock",
+  "description": "Plataforma web e utilitário Desktop Windows (.EXE) para reativar conquistas da Xbox Live, remover o selo [Experimental] e desbloquear templates em mundos do Minecraft Bedrock (1.21.50 a 1.21.80+).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

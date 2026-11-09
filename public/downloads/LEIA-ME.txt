@@ -1,0 +1,20 @@
+================================================================================
+  REATIVADOR DE CONQUISTAS — MINECRAFT BEDROCK v4.0 SUPREME (1.21.50 - 1.21.80+)
+  Utilitário Desktop Windows (.EXE) + Compilador Nativo 1-Clique (.BAT)
+================================================================================
+
+NOVIDADES DA VERSÃO 4.0 SUPREME:
+  - Aumentador e Editor de Dias Jogados (Time + currentTick + showdaysplayed = 1)
+  - Botão rápido "+100 Dias Jogados" e "+1.000 Dias Jogados" em 1 clique
+  - Reativa Conquistas Xbox Live + Muda Criativo para Sobrevivência
+  - Remove selo [Experimental] zerando todas as 14 flags experiments
+  - Desativa trava de Morte no Hardcore (IsHardcore = 0)
+  - Editor Avançado NBT: Edite Dias Jogados, Nome, Seed, Spawn (X, Y, Z), Horário e Clima
+  - Gamerules Seguras (keepinventory=1, showcoordinates=1, showdaysplayed=1, sleeping=1%)
+  - Clonador de Mundos 1-Clique (cria cópia limpa do mundo já com Conquistas Ativas)
+
+ARQUIVOS INCLUÍDOS NESTE PACOTE:
+  1. ReativadorConquistasBedrock.exe    -> Executável .NET Framework 4.x Nativo
+  2. Criar_ReativadorConquistas_EXE.bat -> Gerador/Compilador 1-Clique (Anti-SmartScreen)
+  3. reativador.ico                     -> Ícone oficial Troféu Dourado + Selo Esmeralda
+  4. ReativadorConquistasBedrock.cs     -> Código-fonte C# completo auditável (.NET 4.x)
